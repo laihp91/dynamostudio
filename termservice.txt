@@ -1,0 +1,165 @@
+Terms of Service
+
+‘Storm Games Studio’ Terms of Service
+
+Welcome to Storm Games Studio website where you can find policies and terms governing your use of products and services provided by Storm Games Studio, its subsidiaries and affiliates (collectively as “Company,” “we,” “us” and “our”).
+
+These Terms of Service (“ToS”) constitute a legal agreement between the user of our products and services “user” or “you”) and the Company. It applies when a user accesses, uses or visits our website located at https://www.abigames.com.vn/ (the “Site”), the associated mobile application available for download in the Google Play Store and other third party app stores, or pre-installed on third party devices (the “App”), and/or the services provided through the Site and the App. In these ToS, the term “Service” means and includes the Site, the App and these services, individually or collectively.
+
+We prepared these ToS to help explain the terms that apply to your use of the Service.
+
+1. Consent
+
+By visiting the Site, downloading the App, or otherwise using the Service, you indicate your agreement to be bound by these ToS. If you do not agree with these ToS, you must not use the Service, and uninstall the App if you have already downloaded it.
+
+2. Privacy Policy
+
+Our Privacy Policy, located at https://www.abigames.com.vn/ct-policy , is part of and is governed by these ToS. By agreeing to these ToS, you agree to be bound by the terms of the Privacy Policy and agree that we may use information collected from you in accordance with its terms.
+
+3. Notice Regarding Dispute Resolution
+
+These ToS contain provisions that govern how claims you and we may have against each other are resolved, including an agreement and obligation to arbitrate disputes, which, subject to limited exceptions, will require you to submit claims you have against us to binding arbitration, unless you opt-out of arbitration as described below. If you do not opt-out of arbitration, you will only be permitted to pursue claims and seek relief (including monetary, injunctive, and declaratory relief) against us on an individual basis, not as part of any class or representative action or proceeding.
+
+4. Updates to these ToS We may modify these ToS from time to time. We will notify you of material changes in accordance with applicable laws. If you do not agree with the proposed changes, you should discontinue your use of the Service and uninstall the App. If you continue using the Service after the new terms take effect, you will be bound by the modified ToS
+
+5. Force Majeure
+
+The Company will not be responsible for any failure to perform its obligations under this TOS due to circumstances beyond its reasonable control including, without limitation, acts of God, war, riot, terrorism, embargoes, acts of civil or military authorities, fire, flood, or accidents.
+
+6. Independent Contractors.
+
+Nothing in these ToS shall be deemed to create an agency, partnership, joint venture, employer-employee or franchisor-franchisee relationship of any kind between us and any user.
+
+7. Third Party Terms
+
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+AdMob by Google
+AdMob by Google is provided by Google Inc.
+
+You can opt-out from the AdMob by Google service by following the instructions described by Google: https://support.google.com/ads/answer/2662922
+
+For more information on how Google uses the collected information, please visit the “How Google uses data when you use our partners’ sites or app” page: http://www.google.com/policies/privacy/partners/ or visit the Privacy Policy of Google: http://www.google.com/policies/privacy/
+
+Unity Ads
+Unity Ads is provided by Unity Technologies.
+
+You can opt-out from Unity Ads service by following the instructions as described by Unity Technologies on their Privacy Policy page: https://unity3d.com/legal/privacy-policy
+
+For more information about Unity Technologies, please visit Unity Technologies Privacy Policy: https://unity3d.com/legal/privacy-policy
+
+8. Use of Data
+
+To provide and maintain our Service
+
+To notify you about changes to our Service
+
+To allow you to participate in interactive features of our Service when you choose to do so
+
+To provide customer support
+
+To gather analysis or valuable information so that we can improve our Service
+
+To monitor the usage of our Service
+
+To detect, prevent and address technical issues
+
+9. Access to the services.
+
+By using the Services, you affirm that you are at least 18 years of age (or have reached the age of majority if that is not 18 years of age where you live) or that you have reviewed these Terms with your parent or guardian and he or she assents to these Terms on your behalf and takes full responsibility for your compliance with them. If you are under the age of 13, you must have permission from your parent or guardian in order to use the Services. If you do not have permission from your parent of guardian, certain features and functionality of the Services may be disabled. Information regarding use of your personal information can be found in Storm’s Privacy Policy or in the privacy policy specific to the Service you are using.
+
+You may be required to register an account before using certain Services (“Account”). You may also be required or have the option to access the Services through a social networking service (“SNS”). Your Account is personal to you, and you may not rent, lease, sell, trade, gift, bequeath, or otherwise transfer it to anyone else. You agree to provide true and complete information about yourself when you register your Account and to keep it up to date. You may not have more than one Account or access the Services through more than one SNS at any given time. You are solely responsible for maintaining the confidentiality of your password and user name and for any activities that occur under your Account. Storm does not authorize use of automated methods to sign up for an Account, and Storm reserves the right to immediately terminate your access to the Services or your Account if you breach these Terms or otherwise violate any applicable law, rule, or regulation in your jurisdiction.
+
+You are responsible for the internet connection and/or mobile charges that you may incur for accessing and/or using the Services.
+
+10. In-app purchases.
+
+A. In-game Virtual Currency and Virtual Items
+
+The Service may include an opportunity for you to earn, buy or otherwise obtain in-game currency (“Virtual Currency”) to access virtual, in-game digital goods or items (“Virtual Items”). Methods of obtaining Virtual Currency are at Storm’s sole discretion. Virtual Currency and Virtual Items are not real currency, do not have monetary value, and may not be redeemed for legal currency or items of value outside of the Services.
+
+Virtual Currency and Virtual Items obtained via the Service are provided to you under a limited, personal, revocable, non-transferable, non-sublicenseable license to use within the Service. You have no property interest, right or title in or to any Virtual Currency or Virtual Items appearing or originating in the Service, and they may not be transferred or resold in any manner, including, without limitation, by means of any direct sale or auction service.
+
+Storm has no liability for hacking or loss of your Virtual Currency or Virtual Items or any goods or services obtained via Virtual Currency. Storm has no obligation to, and will not, reimburse you for any Virtual Currency or Virtual Items obtained via Virtual Currency. Storm reserves the right, in its sole discretion and without prior notification, to change or limit the price, availability, or order quantity of any Virtual Currency or Virtual Items and to refuse to provide you with any Virtual Currency or Virtual Items.
+
+Virtual Currency may have an expiration date. If your Virtual Currency or Virtual Items expire and you still have an active Account, Storm may offer conversion of such Virtual Currency into Virtual Items for you in its sole discretion, however Storm is under no obligation to do so. Virtual Currency and Virtual Items may be forfeited if: (a) your Account or access to the Services is terminated or suspended for any reason; (b) you breach these Terms; (c) Storm discontinues availability of the Service; or (d) you disassociate from the Service.
+
+B. Subscriptions
+
+In some of our games, you may pay a fee for a subscription membership (“Subscription”).
+
+ 
+
+When you buy a Subscription, you agree to the following:
+
+A Subscription fee will be charged to your chosen payment method in the app store of your device’s platform (“App Store”). You will be charged the Subscription fee displayed at the time of sale; and
+
+Your Subscription will automatically renew for the applicable length of your Subscription until either you or Storm cancels your Subscription. By way of example, if you buy a 3-month Subscription, the Subscription will automatically renew for another 3-month period (unless either you or Storm cancels your Subscription).
+
+Canceling Subscriptions:
+
+To stop automatic renewal of your Subscription and automatic withdrawal of Subscription fees, you must cancel your Subscription within 24 hours before it renews for the length of the next Subscription period. You may cancel your Subscription at any time by managing the subscription settings at your App Store.
+
+For the Google Play store, instructions for canceling your Subscription may be found here: https://support.google.com/googleplay/answer/7018481
+
+For the Apple App store, instructions for canceling your Subscription may be found here: https://support.apple.com/en-us/HT202039
+
+Other Subscription Terms:
+
+To receive any daily rewards as part of your Subscription, you must open the game that you have the Subscription for. You will not receive rewards for the days on which you did not open the game.
+
+C. Payments for Subscriptions, Virtual Currencies, and Virtual Items
+
+When you pay for a Subscription, Virtual Currencies, and/or Virtual Items, all payments are charged and processed by the App Store (e.g. the Google Play store or the Apple App store), so please review your app store’s payment terms for additional payment terms that may apply.
+
+You agree that all payments for Virtual Currency, Virtual Items, and Subscriptions are final. No refunds will be given, except in ABI’s sole and absolute discretion.
+
+11. Title.
+
+ 
+
+Unless otherwise specified in these Terms, any and all title, ownership, rights, and intellectual property rights in and to the Services including all content therein (collectively the Storm Content”) shall remain in Storm and/or its suppliers, and are protected by the copyright laws of the United Kingdom, the United States and other jurisdictions around the world via international copyright treaties. The names and logos, and other graphics, icons, and service names associated with the Storm Content are trademarks, registered trademarks or trade dress of Storm or its licensors. You may not use, copy, transmit, modify, distribute, or create any derivative works from the Services or the Storm Content without prior written consent from Storm .
+
+ 
+
+The Services may allow you to create content (“Your Content”) that incorporates the Storm Content, including, but not limited, to photos incorporating elements or graphics from games, screenshots or a video of your game play. Storm retains all rights, title and interest in and to the Storm Content. You retain all rights to Your Content; provided, however, that Storm shall have an exclusive, perpetual, irrevocable, fully transferable and sub-licensable worldwide right and license to Your Content for any purpose, including, but not limited to, the rights to reproduce, copy, adapt, modify, perform, display, publish, broadcast, transmit, or otherwise communicate to the public by any means whether now known or unknown and distribute Your Content without any further notice or compensation to you. Except where prohibited by law, you hereby waive any moral rights of paternity, publication, reputation, or attribution with respect to ABI’s use of Your Content.
+
+ 
+
+12. Disclaimer of warranty and limit of liability.
+
+ 
+
+Storm MAKES NO REPRESENTATION, WARRANTY, AND/OR GUARANTEE OF THE SUITABILITY OF THE SERVICES FOR YOUR PURPOSES, OR THAT THE USE OF THE SAME WILL BE SECURE, UNINTERRUPTED, ERROR-FREE, FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR FUNCTION PROPERLY IN COMBINATION WITH ANY THIRD-PARTY TECHNOLOGY, HARDWARE, SOFTWARE, SYSTEMS OR DATA.
+
+ 
+
+THE SERVICES ARE PROVIDED “AS IS” AND ALL CONDITIONS, REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT ARE HEREBY DISCLAIMED TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. FURTHER, Storm MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE SAME, OR TO THE INFORMATION, CONTENT, COMMUNICATIONS, MATERIALS, OR PRODUCTS AND SERVICE CONTAINED THEREIN. YOUR USE OF THE Storm SERVICES IS AT YOUR SOLE RISK.
+
+ 
+
+Storm WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM YOUR USE OF THE SERVICES, INCLUDING, WITHOUT LIMITATION, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES. CERTAIN REGIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
+
+ 
+
+YOU FURTHER ACKNOWLEDGE THAT Storm IS NOT LIABLE, AND YOU AGREE NOT TO HOLD Storm LIABLE, FOR THE CONDUCT OF THIRD-PARTIES, INCLUDING OTHER USERS OF THE SERVICES AND OTHER THIRD-PARTY SITES, AND THAT THE RISK OF USING OR ACCESSING THE SERVICES, AND OF INJURY FROM THE FOREGOING, RESTS ENTIRELY WITH YOU.
+
+ 
+
+13. Indemnification.
+
+ 
+
+You agree to hold harmless, indemnify and defend ABI, its licensors, affiliates and suppliers and their respective officers, directors and employees, from and against any losses, damages, fines and expenses (including attorneys’ fees and costs) due to, arising out of, or relating to any information or item, including, without limitation, Your Content, Forum Content, and/or Inappropriate Content you may submit, post, transmit or make available through the Forums or Services, your use of the Forums and Services, your connection to the Forums and Services, your violation of these Terms, or your violation of any law, regulation or third-party right. Without limiting your indemnification obligations described herein, Storm reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you.
+
+ 
+
+14. Termination.
+
+ 
+
+These Terms will automatically terminate if you fail to comply with any term hereof. You and Storm have the right to terminate or cancel your Account, at any time for any reason and without notice. Upon termination you shall immediately discontinue use of the Services. Your obligations under Sections 5, 10, 12, and 13 shall survive any termination.
+
+15. How to Contact Us
+
+If you have any questions or comments, feel free to contact us at feedback@abigames.com.vn
